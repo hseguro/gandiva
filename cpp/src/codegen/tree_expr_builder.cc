@@ -17,6 +17,7 @@
 #include <utility>
 
 #include "codegen/node.h"
+#include <iostream>
 
 namespace gandiva {
 
