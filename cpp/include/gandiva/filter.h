@@ -20,6 +20,7 @@
 #include <string>
 #include <utility>
 #include <vector>
+#include <iostream>
 
 #include "gandiva/arrow.h"
 #include "gandiva/condition.h"

@@ -18,6 +18,7 @@
 
 #include <string>
 #include <vector>
+#include <iostream>
 
 #include "gandiva/condition.h"
 #include "gandiva/expression.h"
